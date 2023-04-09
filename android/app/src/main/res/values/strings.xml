@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">com.aniketmalik.ecommerce_store</string>
+    <string name="facebook_app_id">959564294852494</string>
+    <string name="fb_login_protocol_scheme">fb959564294852494</string>
+    <string name="facebook_client_token">8bf5ac358fc300e7509e586ca3bdb62e</string>
+</resources>

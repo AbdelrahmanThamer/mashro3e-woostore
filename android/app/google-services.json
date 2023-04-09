@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "278734800670",
+    "project_id": "mstore-pro-flutter",
+    "storage_bucket": "mstore-pro-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278734800670:android:8e4128246aa251120f2b0f",
+        "android_client_info": {
+          "package_name": "com.aniketmalik.ecommerce_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278734800670-n2b13coac3aoa0dra6lk1nn01g737gr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aniketmalik.ecommerce_store",
+            "certificate_hash": "cdfdffd2a0db5a7d24b679b907c112d03760cc6c"
+          }
+        },
+        {
+          "client_id": "278734800670-e6f0hbftfmmqoiu3qtuupe1het719u3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZgrKNVdjmSsCmCUjxue0Rif4sw1CUDuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278734800670-e6f0hbftfmmqoiu3qtuupe1het719u3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
